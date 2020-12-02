@@ -1,2 +1,2 @@
 # Proyecto-sensor
-Proyecto de sistemas embedios sensor DHT11
+Proyecto final de la materia de sistemas embebidos "Sensor DHT11"
